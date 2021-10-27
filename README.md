@@ -16,3 +16,5 @@ First repo created
  Push trail with Bas..
 
  Well done!!
+
+ Trail with my pinto martina config details..
